@@ -58,8 +58,8 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions
-for any questions please reach out to me at${data.email}
-or checkout my github at ${data.github}
+for any questions please reach out to me at ${data.email}
+or checkout my github at http://github.com/${data.github}
 
 `;
 }
