@@ -39,25 +39,25 @@ function generateMarkdown(data) {
 6. [License](#license)
 7. [Questions](#questions)
 
-## Description
+## Description:
 ${data.description} 
 
-## Installation
+## Installation:
 ${data.installation}
 
-## Usage
+## Usage:
 ${data.usage}
 
-## License
+## License:
 ${data.license}
 
-## Contribution
+## Contribution:
 ${data.contribution}
 
-## Tests
+## Tests:
 ${data.tests}
 
-## Questions
+## Questions:
 for any questions please reach out to me at ${data.email}
 or checkout my github at http://github.com/${data.github}
 
