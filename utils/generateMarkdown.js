@@ -35,6 +35,7 @@ function generateMarkdown(data) {
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contribution](#contribution)
+5. [Screenshots](#screenshots)
 5. [Tests](#tests)
 6. [License](#license)
 7. [Questions](#questions)
@@ -53,6 +54,9 @@ ${data.license}
 
 ## Contribution:
 ${data.contribution}
+
+## Screenshots:
+${data.screenshots}
 
 ## Tests:
 ${data.tests}

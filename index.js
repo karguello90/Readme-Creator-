@@ -39,6 +39,11 @@ const questions = [
     }, 
     {
         type: "input",
+        name: "screenshots",
+        message: "Please add any screenshots for the application"
+    }, 
+    {
+        type: "input",
         name: "tests",
         message: "Please select tests for the application"
     }, 
